@@ -1,6 +1,8 @@
 #EXTM3U
 
 // LOCAL
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" tvg-name"TvOne ()" group-title="LOCAL",TvOne
+http://riyancoday.xyz/coday_play.m3u8?shinta=WwW.RiyanCoday.XYZ&coday=2815529715596fd71b2914908f6ce2fd&cdy=814966f47ca1363097c50506d75ab7fc6350bda99c2c71d65b97e0c7973b30ed
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqy4j4RuTxBWTwmiZok8d2IhkJc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-64c183.jpg" tvg-id="RIYAN.0b710a954851922213e2cf9841e8d5af.SHINTA" tvg-name"Indosiar ()" group-title="LOCAL",Indosiar 
 http://riyancoday.xyz/coday_play.m3u8?shinta=WwW.RiyanCoday.XYZ&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d6930fe2acbd519bc723e62d4bd49487269
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ovlps-LDRcRScomG-HyxShLxDwk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" tvg-id="RIYAN.556bc6dac586358d064685e7f667212a.SHINTA" tvg-name"MNC ()" group-title="LOCAL",MNC 
