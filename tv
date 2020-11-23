@@ -1960,8 +1960,6 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Romedy_Now.jpg",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://topwin.my.id/koba/ym.png",Layanan YAMAHA
-https://topwin.my.id/koba/iklan1.mp4
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png",CERIA
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://3.bp.blogspot.com/-Us2xcNr-l8U/VkMBY7mCrSI/AAAAAAAAA7A/RfgB6gIJ2Lo/s200/astro_ria.png",RIA
